@@ -1,0 +1,26 @@
+PANDUAN DEPLOY BONUS138 GUIDE v1.0.0
+
+Clone dari DUKUN138 Guide final v2.0.0.
+Logic inti tidak dibangun ulang.
+
+Dipertahankan:
+- PWA install
+- Admin private © 2026
+- PIN admin
+- Google Sheet sync
+- Apps Script flow
+- Multi-device
+- Static video assets + preload
+- Native video player
+- Cloudflare/GitHub deploy flow
+
+Diubah:
+- Brand: BONUS138 GUIDE
+- Logo/favicon: BONUS138 Zeus mafia boss
+- Tone UI: black gold premium luxury
+
+Catatan:
+- gasApiUrl dikosongkan agar tidak memakai Sheet DUKUN.
+- Buat Google Sheet/App Script baru khusus BONUS138, lalu isi URL Apps Script dari admin atau bake permanen di config.js/config.json.
+- Link daftar/login/chat bisa disetting dari admin.
+- Video bisa diganti di assets/videos/ dengan nama yang sama.
